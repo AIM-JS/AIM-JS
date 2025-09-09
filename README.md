@@ -8,7 +8,7 @@ Currently, I am a member of the [Visualization & Mixed Reality Lab](https://gith
 
 ### 📑 Academic Activities
 - Poster accepted at **ACM SIGGRAPH Asia 2024 Posters**  
-  *"Direct Volume Rendering Based Interaction System in Mixed Reality Environments"*  
+  *"Real-Time Transfer Function Editor for Direct Volume Rendering in Mixed Reality"*  
   [Read more →] (https://dl.acm.org/doi/full/10.1145/3681756.3697953)
 
 ---
