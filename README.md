@@ -8,9 +8,8 @@ Currently, I am a member of the [Visualization & Mixed Reality Lab](https://gith
 
 ### 📑 Academic Activities
 - Poster accepted at **ACM SIGGRAPH Asia 2024 Posters**  
-  *"Real-Time Transfer Function Editor for Direct Volume Rendering in Mixed Reality"*  
-  [Read more →] (https://dl.acm.org/doi/full/10.1145/3681756.3697953)
-
+  *["Real-Time Transfer Function Editor for Direct Volume Rendering in Mixed Reality"](https://dl.acm.org/doi/full/10.1145/3681756.3697953)*  
+  **Junseo Choi** · Hyeonji Kim · Haill An · Younhyun Jung  
 ---
 
 ### 🔬 Research Interests
