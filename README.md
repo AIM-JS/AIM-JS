@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=👋Welcome%20Junseo%20Github👋&fontSize=50&animation=fadeIn)
 
 ---
-I am **Junseo**, an undergraduate student at **Gachon University**.  
+I am **Junseo**, an master student at **Gachon University**.  
 Currently, I am a member of the [Visualization & Mixed Reality Lab](https://github.com/Gachon-VisualizationandMixedRealityLab).
 
 ---
