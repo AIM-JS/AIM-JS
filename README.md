@@ -2,7 +2,7 @@
 
 ---
 I am **Junseo**, an master student at **Gachon University**.  
-Currently, I am a member of the [Visualization & Mixed Reality Lab](https://github.com/Gachon-VisualizationandMixedRealityLab).
+Currently, I am a member of the [Visualization & Mixed Reality Lab](https://gcu-vomlab.github.io/VOM/).
 
 ---
 
